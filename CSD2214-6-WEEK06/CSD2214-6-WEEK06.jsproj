@@ -80,6 +80,7 @@
     <Content Include="css\default.css" />
     <Content Include="page.html" />
     <Content Include="page1.html" />
+    <Content Include="page2.html" />
     <None Include="CSD2214-6-WEEK06_TemporaryKey.pfx" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\$(WMSJSProjectDirectory)\Microsoft.VisualStudio.$(WMSJSProject).targets" />
